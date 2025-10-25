@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Veo Video Generator",
+  "description": "An application to generate a video from an uploaded photo and a script using the Gemini Veo API. Users can select an aspect ratio for the final video.",
+  "requestFramePermissions": []
+}
